@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Stats UK",
+    "version": "1.0.0",
+    "description": "data terbaru covid of UK",
+    "manifest_version": 3,
+    "author": "kiiroitori",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Data Terbaru Covid"
+    }
+}
